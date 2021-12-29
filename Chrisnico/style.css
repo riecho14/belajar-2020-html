@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+* {
+  margin-top: 0px;
+  color: aliceblue;
+}
+body {
+  background-color: rgb(55, 65, 81);
+}
+
+body .container {
+  width: 1400px;
+  margin: 10px auto;
+  display: flex;
+}
+.kiri {
+  padding-top: 200px;
+}
+.kiri h3 {
+  font-family: "Poppins", sans-serif;
+}
+.kiri h1 {
+  font-family: "Poppins", sans-serif;
+}
+.kiri p {
+  font-family: "Poppins", sans-serif;
+}
+.logo svg {
+  padding-right: 30px;
+}
+body i {
+  padding-left: 20px;
+}
+.turun {
+  margin-top: -30px;
+}
+.kiri span {
+  font-size: 70px;
+}
+svg {
+  padding-bottom: -10px;
+}
+.kanan {
+  padding-left: 450px;
+}
