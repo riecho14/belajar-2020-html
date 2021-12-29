@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+img{
+    position: absolute;
+    object-fit: contain;
+    object-position: center;
+    height: 130px;
+    width: 130px;
+    bottom: 30px;
+    left: 30px;
+}
+
+button{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: rgb(61, 216, 255);
+}
+
+.main-content{
+    position: relative;
+    width: 700px;
+    height: 500px;
+    padding: 30px 70px;
+    margin: 30px auto;
+    background-color: rgb(176, 233, 70);
+    border-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+}
